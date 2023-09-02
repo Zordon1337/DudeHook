@@ -10,3 +10,5 @@ Teleport to random npc
 NPC Snaplines
 NPC Name ESP
 ```
+
+ps: inject after loading into save or cheat won't work for some reason
