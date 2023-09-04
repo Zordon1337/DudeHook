@@ -35,7 +35,7 @@ and it will work only in DS 2
 
 ## Compatibility List
 ```
-Dude Simulator 1 - Doesn't even load
+Dude Simulator 1 - Doesn't even load, but you can use ported version https://github.com/Zordon1337/DudeHook-PORT
 Dude Simulator 2 - Everything works
 Dude Simulator 3 - Everything should work
 Dude Simulator 4 - Everything should work
